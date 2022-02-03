@@ -17,7 +17,6 @@ Semi-supervised machine learning: Semi-supervised learning falls between supervi
 
 1. Load the data
 
-
 2. Analyze and visualize the dataset
 
 3. Model training.
@@ -26,3 +25,4 @@ Semi-supervised machine learning: Semi-supervised learning falls between supervi
 
 5. Testing the model.
 
+![image](https://user-images.githubusercontent.com/72293918/152356069-8d09490e-7a8b-4738-8d68-57ca82e83d96.png)
