@@ -13,6 +13,9 @@ Unsupervised machine learning: Unlike supervised learning, unsupervised learning
 
 Semi-supervised machine learning: Semi-supervised learning falls between supervised and unsupervised learning. It has a small amount of tagged data and a large amount of untagged data.
 
+![image](https://user-images.githubusercontent.com/72293918/152356411-e5680fbe-4621-4239-a4b2-f7e087bbb91b.png)
+
+
 # Steps to Classify Iris Flower:
 
 1. Load the data
